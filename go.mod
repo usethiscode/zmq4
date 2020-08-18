@@ -1,4 +1,4 @@
-module github.com/go-zeromq/zmq4
+module github.com/usethiscode/zmq4
 
 go 1.13
 
